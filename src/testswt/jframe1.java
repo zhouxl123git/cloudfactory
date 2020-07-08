@@ -11,6 +11,7 @@ public class jframe1 extends JFrame {
 
 	private JPanel contentPane;
 	private JPanel contentPane2;
+	private JPanel contentPane0;
 	/**
 	 * Launch the application.
 	 */
