@@ -10,7 +10,7 @@ import javax.swing.border.EmptyBorder;
 public class jframe1 extends JFrame {
 
 	private JPanel contentPane;
-
+	private JPanel contentPane2;
 	/**
 	 * Launch the application.
 	 */
